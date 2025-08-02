@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshkr.221104@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1srgyr8qnHn2bpk8YnFswGseDG-sROJRM/view?usp=drivesdk
+- 📄 My Resume Link :  https://drive.google.com/file/d/1srgyr8qnHn2bpk8YnFswGseDG-sROJRM/view?usp=drivesdk
 
 - ⚡ Fun fact **I think I'm Funny😁**
 
