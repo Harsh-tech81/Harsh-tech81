@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **harshkr.221104@gmail.com**
 
-- 📄 My Resume Link :  https://drive.google.com/file/d/1srgyr8qnHn2bpk8YnFswGseDG-sROJRM/view?usp=drivesdk
-
 - ⚡ Fun fact **I think I'm Funny😁**
 
 <h3 align="left">Languages and Tools:</h3>
