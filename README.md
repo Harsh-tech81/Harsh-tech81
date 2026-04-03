@@ -1,8 +1,11 @@
+
+
 # 💫 About Me:
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I’m currently working on : Building full-stack web applications using the MERN stack, focusing on scalable and real-world projects.<br>👯 I’m looking to collaborate on : Full-stack development projects, especially involving MERN stack and backend systems.<br>🌱 I’m currently learning : Advanced topics in Data Structures and Algorithms, along with exploring Next.js and other modern web frameworks.<br>💬 Ask me about : MERN stack development, REST APIs, and problem-solving approaches in DSA.<br>⚡ Fun fact : I enjoy solving coding problems and building projects that solve real-world use cases.
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-tech81&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-tech81" /> </p>
 
