@@ -5,8 +5,15 @@
 🔭 I’m currently working on : Building full-stack web applications using the MERN stack, focusing on scalable and real-world projects.<br>👯 I’m looking to collaborate on : Full-stack development projects, especially involving MERN stack and backend systems.<br>🌱 I’m currently learning : Advanced topics in Data Structures and Algorithms, along with exploring Next.js and other modern web frameworks.<br>💬 Ask me about : MERN stack development, REST APIs, and problem-solving approaches in DSA.<br>⚡ Fun fact : I enjoy solving coding problems and building projects that solve real-world use cases.
 
 ---
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-tech81&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-tech81" /> </p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 
 ## 🌐 Socials:
@@ -19,10 +26,14 @@
 ![](https://streak-stats.demolab.com/?user=Harsh-tech81&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harsh-tech81&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
