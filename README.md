@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Harsh Kumar
+#  Hii, I'm Harsh Kumar
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 💻 Passionate about **Software Engineering, AI Systems, Full-Stack Development, and Distributed Applications.**
 
-🚀 Currently building **Cortex AI**, a Multi-Agent AI Platform powered by **LangGraph, RAG, Redis, Docker, AWS, and Microservices.**
+🚀 Currently building **AgentFlow AI**, a Multi-Agent AI Platform powered by **LangGraph, RAG, Redis, Docker, AWS, and Microservices.**
 
 🌱 Currently exploring **System Design, Cloud Architecture, LLM Applications, and Scalable Backend Engineering.**
 
@@ -17,14 +17,24 @@
 
 ⚡ I enjoy building production-ready software that solves real-world problems.
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshkr.56) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-1ba21731a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshKumar55518) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkr.221104@gmail.com) 
 
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 # 🚀 Featured Projects
 
-### 🤖 Cortex AI
+### 🤖 AgentFlow AI
 Multi-Agent AI Platform with LangGraph, RAG, Redis, Qdrant, Docker, AWS and Firebase Authentication.
 
 🔗 https://github.com/Harsh-tech81/Multi-Agent-AI-Platform
@@ -58,15 +68,16 @@ https://bejewelled-sunshine-44d5ba.netlify.app
 
 Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
 
-
+---
 # 🏆 Competitive Programming
 
 - 💛 LeetCode — Max Rating **1617**
 - ⭐ CodeChef — **2★ (Max Rating: 1416)**
 - 💙 Codeforces — Max Rating **1010**
 
-Solved **700+ algorithmic problems** across major coding platforms.
+Solved **1000+ algorithmic problems** across major coding platforms.
 
+---
 
 # 💻 Tech Stack
 
@@ -114,42 +125,27 @@ Solved **700+ algorithmic problems** across major coding platforms.
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" />
 </p>
 
+---
 
 # 📈 Currently Learning
 
 - Multi-Agent AI Systems
-- Distributed Systems
 - System Design
-- Kubernetes
+- Microservices
 - CI/CD Pipelines
+
+  ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Harsh-tech81&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ## 📈 Contribution Graph
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-tech81&theme=react-dark)
 
-## 🏅 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Harsh-tech81&theme=algolia&no-frame=true&column=7)
-
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harsh-tech81&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-tech81&theme=github_dark)
-
----
-
-⭐ If you like my projects, consider giving them a star.
-
-Thanks for visiting my profile! 🚀
-
----
