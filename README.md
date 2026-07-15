@@ -68,15 +68,6 @@ https://bejewelled-sunshine-44d5ba.netlify.app
 Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
 
 ---
-# 🏆 Competitive Programming
-
-- 💛 LeetCode — Max Rating **1617**
-- ⭐ CodeChef — **2★ (Max Rating: 1416)**
-- 💙 Codeforces — Max Rating **1010**
-
-Solved **1000+ algorithmic problems** across major coding platforms.
-
----
 
 # 💻 Tech Stack
 
