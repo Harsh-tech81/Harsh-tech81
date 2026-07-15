@@ -1,43 +1,155 @@
 
+# 👋 Hi, I'm Harsh Kumar
 
-# 💫 About Me:
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-🔭 I’m currently working on : Building full-stack web applications using the MERN stack, focusing on scalable and real-world projects.<br>👯 I’m looking to collaborate on : Full-stack development projects, especially involving MERN stack and backend systems.<br>🌱 I’m currently learning : Advanced topics in Data Structures and Algorithms, along with exploring Next.js and other modern web frameworks.<br>💬 Ask me about : MERN stack development, REST APIs, and problem-solving approaches in DSA.<br>⚡ Fun fact : I enjoy solving coding problems and building projects that solve real-world use cases.
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-tech81&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-tech81" /> </p>
+🎓 B.Tech CSE Student at **NIT Patna**
 
-<!-- Snake Game Repo View -->
+💻 Passionate about **Software Engineering, AI Systems, Full-Stack Development, and Distributed Applications.**
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+🚀 Currently building **Cortex AI**, a Multi-Agent AI Platform powered by **LangGraph, RAG, Redis, Docker, AWS, and Microservices.**
 
----
+🌱 Currently exploring **System Design, Cloud Architecture, LLM Applications, and Scalable Backend Engineering.**
+
+🧩 Strong interest in **Data Structures & Algorithms** and Competitive Programming.
+
+🤝 Open to collaborating on **AI, Backend, and Full-Stack Open Source Projects.**
+
+⚡ I enjoy building production-ready software that solves real-world problems.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshkr.56) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-1ba21731a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshKumar55518) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkr.221104@gmail.com) 
 
 
+# 🚀 Featured Projects
+
+### 🤖 Cortex AI
+Multi-Agent AI Platform with LangGraph, RAG, Redis, Qdrant, Docker, AWS and Firebase Authentication.
+
+🔗 https://github.com/Harsh-tech81/Multi-Agent-AI-Platform
+
+---
+
+### 💬 NovaChat
+AI Chatbot & Image Generator using Google Gemini, Stripe, ImageKit and MERN Stack.
+
+🔗 https://github.com/Harsh-tech81/NovaChat
+
+🌐 Live Demo:
+https://nova-chat-rouge.vercel.app
+
+---
+
+### 🛒 Ecommerce Shopping Website
+Production-ready MERN Ecommerce Platform with OTP Authentication, Razorpay Payments and Admin Dashboard.
+
+🔗 https://github.com/Harsh-tech81/Ecommerce-Shopping-Website
+
+🌐 Client
+https://splendorous-marzipan-2ace59.netlify.app
+
+🌐 Admin
+https://bejewelled-sunshine-44d5ba.netlify.app
+
+---
+
+### ☕ Get Me A Chai
+
+Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
 
 
+# 🏆 Competitive Programming
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- 💛 LeetCode — Max Rating **1617**
+- ⭐ CodeChef — **2★ (Max Rating: 1416)**
+- 💙 Codeforces — Max Rating **1010**
+
+Solved **700+ algorithmic problems** across major coding platforms.
+
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vite" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" />
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" />
+</p>
+
+
+# 📈 Currently Learning
+
+- Multi-Agent AI Systems
+- Distributed Systems
+- System Design
+- Kubernetes
+- CI/CD Pipelines
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Harsh-tech81&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-tech81&theme=react-dark)
+
+## 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Harsh-tech81&theme=algolia&no-frame=true&column=7)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Harsh-tech81&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-tech81&theme=github_dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+⭐ If you like my projects, consider giving them a star.
+
+Thanks for visiting my profile! 🚀
 
 ---
