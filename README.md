@@ -99,7 +99,7 @@ Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
 ### ☁️ Cloud, DevOps & Deployment
