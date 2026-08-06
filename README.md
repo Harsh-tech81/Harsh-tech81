@@ -7,8 +7,6 @@
 
 💻 Passionate about **Software Engineering, AI Systems, Full-Stack Development, and Distributed Applications.**
 
-🚀 Currently building **AgentFlow AI**, a Multi-Agent AI Platform powered by **LangGraph, RAG, Redis, Docker, AWS, and Microservices.**
-
 🌱 Currently exploring **System Design, Cloud Architecture, LLM Applications, and Scalable Backend Engineering.**
 
 🧩 Strong interest in **Data Structures & Algorithms** and Competitive Programming.
@@ -31,12 +29,16 @@
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
 ### 🤖 AgentFlow AI
 Multi-Agent AI Platform with LangGraph, RAG, Redis, Qdrant, Docker, AWS and Firebase Authentication.
 
 🔗 https://github.com/Harsh-tech81/Multi-Agent-AI-Platform
+
+🌐 Live Demo:
+https://d207y6mo1zz6xc.cloudfront.net
 
 ---
 
