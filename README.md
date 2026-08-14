@@ -7,7 +7,7 @@
 
 💻 Passionate about **Software Engineering, AI Systems, Full-Stack Development, and Distributed Applications.**
 
-🌱 Currently exploring **System Design, Cloud Architecture, LLM Applications, and Scalable Backend Engineering.**
+🌱 Currently exploring **Generative AI, Agentic AI, Cloud Architecture, LLM Applications**
 
 🧩 Strong interest in **Data Structures & Algorithms** and Competitive Programming.
 
@@ -121,10 +121,9 @@ Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
 
 # 📈 Currently Learning
 
-- Multi-Agent AI Systems
-- System Design
-- Microservices
-- CI/CD Pipelines
+-Generative AI
+-Agentic AI 
+-LLM Applications
 
   ---
 
