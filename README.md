@@ -121,9 +121,9 @@ Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
 
 # 📈 Currently Learning
 
--Generative AI
--Agentic AI 
--LLM Applications
+- Generative AI
+- Agentic AI 
+- LLM Applications
 
   ---
 
