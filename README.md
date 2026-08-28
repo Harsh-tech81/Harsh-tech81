@@ -37,9 +37,6 @@ Multi-Agent AI Platform with LangGraph, RAG, Redis, Qdrant, Docker, AWS and Fire
 
 🔗 https://github.com/Harsh-tech81/Multi-Agent-AI-Platform
 
-🌐 Live Demo:
-https://d207y6mo1zz6xc.cloudfront.net
-
 ---
 
 ### 💬 NovaChat
