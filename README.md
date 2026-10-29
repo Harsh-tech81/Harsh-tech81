@@ -62,6 +62,24 @@ https://bejewelled-sunshine-44d5ba.netlify.app
 
 ---
 
+### 🤖 PlaceAI — AI Campus Placement Portal
+AI-powered campus placement and recruitment platform featuring LangGraph multi-agent workflows, RAG-based resume matching, and adaptive AI mock interviews.
+
+🔗 GitHub: https://github.com/Harsh-tech81/AI-Campus-Placement-Portal
+
+🌐 Live Website: https://ai-campus-placement-portal.vercel.app
+
+---
+
+### 💼 Personal Portfolio
+Personal developer portfolio showcasing my projects, technical skills, experience, and achievements.
+
+🔗 GitHub: https://github.com/Harsh-tech81/Portfolio
+
+🌐 Live Website: https://portfolio-client-swart-phi.vercel.app/
+
+---
+
 ### ☕ Get Me A Chai
 
 Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
