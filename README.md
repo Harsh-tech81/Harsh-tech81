@@ -76,8 +76,6 @@ Personal developer portfolio showcasing my projects, technical skills, experienc
 
 🔗 GitHub: https://github.com/Harsh-tech81/Portfolio
 
-🌐 Live Website: https://portfolio-client-swart-phi.vercel.app/
-
 ---
 
 ### ☕ Get Me A Chai
