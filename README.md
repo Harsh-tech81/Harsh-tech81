@@ -202,7 +202,7 @@ A full-stack ecommerce platform with OTP/email verification, payment integration
 
 <p>A creator crowdfunding platform with authentication and payment flow.</p>
 
-<a href="YOUR_GETMEACHAI_GITHUB_REPOSITORY">
+<a href="https://github.com/Harsh-tech81/Get-Me-A-Chai">
   <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
