@@ -67,12 +67,16 @@ AI-powered campus placement and recruitment platform featuring LangGraph multi-a
 
 🔗 GitHub: https://github.com/Harsh-tech81/AI-Campus-Placement-Portal
 
+🌐 Live Demo:  https://ai-campus-placement-portal.vercel.app
+
 ---
 
 ### 💼 Personal Portfolio
 Personal developer portfolio showcasing my projects, technical skills, experience, and achievements.
 
 🔗 GitHub: https://github.com/Harsh-tech81/Portfolio
+
+🌐 Live Demo:  https://portfolio-client-swart-phi.vercel.app
 
 ---
 
