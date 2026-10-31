@@ -123,6 +123,37 @@ A full-stack ecommerce platform with OTP/email verification, payment integration
 
 ---
 
+---
+
+## `$ problem_solving --journey`
+
+I believe strong software engineering starts with strong problem-solving fundamentals. I practice Data Structures & Algorithms and competitive programming to sharpen algorithmic thinking, write efficient solutions, and approach unfamiliar problems methodically.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Harsh_kr-123">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-263449?style=for-the-badge&logo=leetcode&logoColor=F4B860" alt="Harsh Kumar on LeetCode" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/harshkr.221104">
+  <img src="https://img.shields.io/badge/Codeforces-View%20Profile-263449?style=for-the-badge&logo=codeforces&logoColor=8DBBFF" alt="Harsh Kumar on Codeforces" />
+</a>
+<br/><br/>
+<a href="https://www.codechef.com/users/harshkumar12">
+  <img src="https://img.shields.io/badge/CodeChef-View%20Profile-263449?style=for-the-badge&logo=codechef&logoColor=D8B99C" alt="Harsh Kumar on CodeChef" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/harshkrrrpu?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-263449?style=for-the-badge&logo=geeksforgeeks&logoColor=86D6A0" alt="Harsh Kumar on GeeksforGeeks" />
+</a>
+
+</div>
+
+**Problem-solving focus:** Data Structures · Algorithms · Dynamic Programming · Graph Algorithms · Binary Search · Trees · Competitive Programming
+
+---
+
+
 ## `$ stack --loadout`
 
 <div align="center">
