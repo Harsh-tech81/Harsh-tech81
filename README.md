@@ -189,7 +189,7 @@ A full-stack ecommerce platform with OTP/email verification, payment integration
 
 <p>A portfolio showcasing my projects, technical skills and developer journey.</p>
 
-<a href="YOUR_PORTFOLIO_GITHUB_REPOSITORY">
+<a href="https://github.com/Harsh-tech81/Portfolio">
   <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://portfolio-client-swart-phi.vercel.app">
