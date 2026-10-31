@@ -1,157 +1,177 @@
-
-#  Hii, I'm Harsh Kumar
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-🎓 B.Tech CSE Student at **NIT Patna**
-
-💻 Passionate about **Software Engineering, AI Systems, Full-Stack Development, and Distributed Applications.**
-
-🌱 Currently exploring **Generative AI, Agentic AI, Cloud Architecture, LLM Applications**
-
-🧩 Strong interest in **Data Structures & Algorithms** and Competitive Programming.
-
-🤝 Open to collaborating on **AI, Backend, and Full-Stack Open Source Projects.**
-
-⚡ I enjoy building production-ready software that solves real-world problems.
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshkr.56) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-1ba21731a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshKumar55518) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkr.221104@gmail.com) 
-
-
----
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="./assets/hero-terminal.svg" width="100%" alt="Harsh Kumar — Full-Stack Developer and AI Systems Builder" />
+
+<p>
+  <a href="https://github.com/Harsh-tech81">GitHub</a> ·
+  <a href="https://linkedin.com/in/harsh-kumar-1ba21731a">LinkedIn</a> ·
+  <a href="https://portfolio-client-swart-phi.vercel.app">Portfolio</a> ·
+  <a href="mailto:harshkr.221104@gmail.com">Email</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Harsh-tech81&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/NIT-Patna-7C3AED?style=flat-square" alt="NIT Patna" />
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI-0F766E?style=flat-square" alt="Agentic AI focus" />
+
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## `$ whoami`
 
-### 🤖 AgentFlow AI
-Multi-Agent AI Platform with LangGraph, RAG, Redis, Qdrant, Docker, AWS and Firebase Authentication.
+I'm **Harsh Kumar**, a Computer Science and Engineering student at **NIT Patna**. I enjoy building complete software products — from responsive interfaces and reliable backend APIs to AI-powered workflows and data-driven applications.
 
-🔗 https://github.com/Harsh-tech81/Multi-Agent-AI-Platform
+My current interests sit at the intersection of **Full-Stack Engineering, Generative AI, Agentic AI, and distributed applications**. I like understanding how systems work end-to-end, turning ideas into practical products, and improving them through iteration.
 
----
+<div align="center">
+  <img src="./assets/player-card.svg" width="100%" alt="Developer snapshot showing my engineering focus" />
+</div>
 
-### 💬 NovaChat
-AI Chatbot & Image Generator using Google Gemini, Stripe, ImageKit and MERN Stack.
-
-🔗 https://github.com/Harsh-tech81/NovaChat
-
-🌐 Live Demo:
-https://nova-chat-rouge.vercel.app
-
----
-
-### 🛒 Ecommerce Shopping Website
-Production-ready MERN Ecommerce Platform with OTP Authentication, Razorpay Payments and Admin Dashboard.
-
-🔗 https://github.com/Harsh-tech81/Ecommerce-Shopping-Website
-
-🌐 Client
-https://splendorous-marzipan-2ace59.netlify.app
-
-🌐 Admin
-https://bejewelled-sunshine-44d5ba.netlify.app
+```js
+const harsh = {
+  education: "B.Tech in Computer Science & Engineering — NIT Patna",
+  interests: ["Full-Stack Engineering", "Agentic AI", "RAG", "Distributed Systems"],
+  languages: ["C++", "Java", "JavaScript", "TypeScript", "Python"],
+  currentlyExploring: ["Multi-Agent Workflows", "LLM Applications", "Cloud Architecture"],
+  engineeringMindset: ["Build", "Measure", "Learn", "Iterate"]
+};
+```
 
 ---
 
-### 🤖 PlaceAI — AI Campus Placement Portal
-AI-powered campus placement and recruitment platform featuring LangGraph multi-agent workflows, RAG-based resume matching, and adaptive AI mock interviews.
+## `$ selected_work`
 
-🔗 GitHub: https://github.com/Harsh-tech81/AI-Campus-Placement-Portal
+I focus on projects that combine useful product features with meaningful engineering challenges. Here are a few builds that represent the work I enjoy.
 
-🌐 Live Demo:  https://ai-campus-placement-portal.vercel.app
+### 01 · PlaceAI — AI Campus Placement Portal
 
----
+<div align="center">
+  <a href="https://github.com/Harsh-tech81/AI-Campus-Placement-Portal">
+    <img src="./assets/project-placeai.svg" width="100%" alt="PlaceAI project card" />
+  </a>
+</div>
 
-### 💼 Personal Portfolio
-Personal developer portfolio showcasing my projects, technical skills, experience, and achievements.
+An AI-powered campus placement platform with recruiter workflows, candidate management, resume-job matching, candidate scoring, skill-gap analysis, and personalized interview preparation.
 
-🔗 GitHub: https://github.com/Harsh-tech81/Portfolio
+**Engineering highlights:** LangGraph multi-agent workflows, RAG with Qdrant vector search and Gemini embeddings, Redis, BullMQ, and role-based application features.
 
-🌐 Live Demo:  https://portfolio-client-swart-phi.vercel.app
+- **Stack:** Next.js 16, React 19, TypeScript, MongoDB, LangGraph, LangChain, Qdrant, Redis, BullMQ, Docker.
+- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/AI-Campus-Placement-Portal)
+- **Live:** [Open PlaceAI](https://ai-campus-placement-portal.vercel.app)
 
----
+### 02 · AgentFlow AI — Multi-Agent AI Platform
 
-### ☕ Get Me A Chai
+<div align="center">
+  <a href="https://github.com/Harsh-tech81/Multi-Agent-AI-Platform">
+    <img src="./assets/project-agentflow.svg" width="100%" alt="AgentFlow AI project card" />
+  </a>
+</div>
 
-Creator Crowdfunding Platform built using Next.js, NextAuth and Razorpay.
+A multi-agent AI platform focused on orchestrating specialized agents and combining retrieval-augmented generation with scalable supporting services.
 
----
+- **Stack:** LangGraph, RAG, Redis, Qdrant, Docker, AWS, Firebase Authentication.
+- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/Multi-Agent-AI-Platform)
 
-# 💻 Tech Stack
+### 03 · NovaChat — AI Chat & Image Generation
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python" />
-</p>
+<div align="center">
+  <a href="https://github.com/Harsh-tech81/NovaChat">
+    <img src="./assets/project-novachat.svg" width="100%" alt="NovaChat project card" />
+  </a>
+</div>
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vite" />
-</p>
+An AI chatbot and image-generation application built around Google's Gemini model, with payments and media delivery integrated into a MERN-based product.
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+- **Stack:** MongoDB, Express, React, Node.js, Google Gemini, Stripe, ImageKit.
+- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/NovaChat)
+- **Live:** [Open NovaChat](https://nova-chat-rouge.vercel.app)
 
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge" />
-</p>
+### 04 · Ecommerce Shopping Website
 
-### 🗄️ Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
+<div align="center">
+  <a href="https://github.com/Harsh-tech81/Ecommerce-Shopping-Website">
+    <img src="./assets/project-ecommerce.svg" width="100%" alt="Ecommerce project card" />
+  </a>
+</div>
 
-### ☁️ Cloud, DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,netlify" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</p>
+A full-stack ecommerce platform with OTP/email verification, payment integrations, product management, and an admin dashboard.
 
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" />
-</p>
+- **Stack:** MongoDB, Express, React, Node.js, Razorpay, PayPal.
+- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/Ecommerce-Shopping-Website)
+- **Client:** [Live Store](https://splendorous-marzipan-2ace59.netlify.app)
+- **Admin:** [Admin Dashboard](https://bejewelled-sunshine-44d5ba.netlify.app)
 
----
+<details>
+<summary><strong>More projects</strong></summary>
 
-# 📈 Currently Learning
-
-- Generative AI
-- Agentic AI 
-- LLM Applications
-
-  ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Harsh-tech81&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-tech81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-tech81&theme=react-dark)
+| Project | Description | Link |
+|---|---|---|
+| Personal Portfolio | Portfolio showcasing projects, skills and developer journey. | [Repository](https://github.com/Harsh-tech81/Portfolio) · [Live](https://portfolio-client-swart-phi.vercel.app) |
+| Get Me A Chai | Creator crowdfunding platform with authentication and payment flow. | Add repository URL |
+</details>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## `$ stack --loadout`
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,react,nextjs,redux,tailwind,html,css,nodejs,express,mongodb,postgres,mysql,redis,docker,aws,git,github,linux,vercel&perline=8" alt="Programming languages, frontend, backend, database and cloud tools" />
+  <br/><br/>
+  <img src="./assets/tech-stack.svg" width="100%" alt="Categorized engineering toolkit" />
+</div>
+
+**AI & LLM ecosystem:** LangChain · LangGraph · RAG · Google Gemini · Groq · Qdrant
+
+**Backend & systems:** REST APIs · JWT · Role-Based Access Control · Redis · BullMQ · Socket.IO
+
+**Cloud & delivery:** Docker · AWS · Vercel · Netlify · Render · Git
+
+---
+
+## `$ activity --signal`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-tech81&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub overview statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-tech81&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Harsh-tech81&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-tech81&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+> GitHub statistics are provided by third-party services and may occasionally be unavailable or delayed. Language percentages reflect detected repository code, not overall proficiency.
+
+---
+
+## `$ currently_learning`
+
+- Designing reliable multi-agent workflows and tool-using AI systems.
+- Building better RAG pipelines and LLM-powered applications.
+- Exploring cloud architecture, containerization, and scalable backend design.
+- Strengthening problem-solving and data structures through C++.
+
+---
+
+## `$ beyond_the_code`
+
+- **Problem solving:** I enjoy breaking down complex problems into smaller, testable steps.
+- **Project-first learning:** I learn best by implementing concepts in working applications.
+- **Collaboration:** Open to meaningful collaboration on AI, backend, and full-stack projects.
+
+---
+
+## `$ open_a_connection`
+
+If you're building something interesting, exploring an engineering problem, or have an opportunity to discuss, feel free to reach out.
+
+<div align="center">
+  <a href="https://linkedin.com/in/harsh-kumar-1ba21731a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:harshkr.221104@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+  <a href="https://portfolio-client-swart-phi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+  <a href="https://github.com/Harsh-tech81"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+</div>
+
+<div align="center">
+  <img src="./assets/footer-terminal.svg" width="100%" alt="Thanks for visiting — let's build something great" />
+  <sub>Building, learning and shipping — one meaningful commit at a time.</sub>
+</div>
