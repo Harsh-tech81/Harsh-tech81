@@ -140,7 +140,7 @@ An AI chatbot and image-generation application built around Google's Gemini mode
     <img src="https://img.shields.io/badge/ImageKit-263449?style=flat-square"/>
   </p>
 
-  <a href="YOUR_NOVACHAT_GITHUB_REPOSITORY">
+  <a href="https://github.com/Harsh-tech81/NovaChat">
     <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://nova-chat-rouge.vercel.app">
