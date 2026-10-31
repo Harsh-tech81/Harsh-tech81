@@ -66,11 +66,31 @@ An AI-powered campus placement platform with recruiter workflows, candidate mana
 
 **Engineering highlights:** LangGraph multi-agent workflows, RAG with Qdrant vector search and Gemini embeddings, Redis, BullMQ, and role-based application features.
 
-- **Stack:** Next.js 16, React 19, TypeScript, MongoDB, LangGraph, LangChain, Qdrant, Redis, BullMQ, Docker.
-- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/AI-Campus-Placement-Portal)
-- **Live:** [Open PlaceAI](https://ai-campus-placement-portal.vercel.app)
+<div align="center">
 
-### 02 · AgentFlow AI — Multi-Agent AI Platform
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-263449?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-263449?style=flat-square&logo=react&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/TypeScript-263449?style=flat-square&logo=typescript&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/MongoDB-263449?style=flat-square&logo=mongodb&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/LangGraph-263449?style=flat-square&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/LangChain-263449?style=flat-square&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/Qdrant-263449?style=flat-square&logoColor=E2A6A6"/>
+    <img src="https://img.shields.io/badge/Redis-263449?style=flat-square&logo=redis&logoColor=E58B8B"/>
+    <img src="https://img.shields.io/badge/BullMQ-263449?style=flat-square&logoColor=E2A6A6"/>
+    <img src="https://img.shields.io/badge/Docker-263449?style=flat-square&logo=docker&logoColor=8DBBFF"/>
+  </p>
+
+  <a href="https://github.com/Harsh-tech81/AI-Campus-Placement-Portal">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://ai-campus-placement-portal.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-263449?style=for-the-badge&logo=vercel&logoColor=86D6A0"/>
+  </a>
+
+</div>
+
+###   02 · AgentFlow AI — Multi-Agent AI Platform
 
 <div align="center">
   <a href="https://github.com/Harsh-tech81/Multi-Agent-AI-Platform">
@@ -80,8 +100,23 @@ An AI-powered campus placement platform with recruiter workflows, candidate mana
 
 A multi-agent AI platform focused on orchestrating specialized agents and combining retrieval-augmented generation with scalable supporting services.
 
-- **Stack:** LangGraph, RAG, Redis, Qdrant, Docker, AWS, Firebase Authentication.
-- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/Multi-Agent-AI-Platform)
+<div align="center">
+
+  <p>
+    <img src="https://img.shields.io/badge/LangGraph-263449?style=flat-square"/>
+    <img src="https://img.shields.io/badge/RAG-263449?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Redis-263449?style=flat-square&logo=redis&logoColor=E58B8B"/>
+    <img src="https://img.shields.io/badge/Qdrant-263449?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Docker-263449?style=flat-square&logo=docker&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/AWS-263449?style=flat-square&logo=amazonwebservices&logoColor=EABF72"/>
+    <img src="https://img.shields.io/badge/Firebase-263449?style=flat-square&logo=firebase&logoColor=EABF72"/>
+  </p>
+
+  <a href="YOUR_AGENTFLOW_GITHUB_REPOSITORY">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
 
 ### 03 · NovaChat — AI Chat & Image Generation
 
@@ -93,9 +128,26 @@ A multi-agent AI platform focused on orchestrating specialized agents and combin
 
 An AI chatbot and image-generation application built around Google's Gemini model, with payments and media delivery integrated into a MERN-based product.
 
-- **Stack:** MongoDB, Express, React, Node.js, Google Gemini, Stripe, ImageKit.
-- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/NovaChat)
-- **Live:** [Open NovaChat](https://nova-chat-rouge.vercel.app)
+<div align="center">
+
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-263449?style=flat-square&logo=mongodb&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/Express.js-263449?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-263449?style=flat-square&logo=react&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/Node.js-263449?style=flat-square&logo=nodedotjs&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/Gemini-263449?style=flat-square&logo=googlegemini&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/Stripe-263449?style=flat-square&logo=stripe&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/ImageKit-263449?style=flat-square"/>
+  </p>
+
+  <a href="YOUR_NOVACHAT_GITHUB_REPOSITORY">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://nova-chat-rouge.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-263449?style=for-the-badge&logo=vercel&logoColor=86D6A0"/>
+  </a>
+
+</div>
 
 ### 04 · Ecommerce Shopping Website
 
@@ -107,23 +159,54 @@ An AI chatbot and image-generation application built around Google's Gemini mode
 
 A full-stack ecommerce platform with OTP/email verification, payment integrations, product management, and an admin dashboard.
 
-- **Stack:** MongoDB, Express, React, Node.js, Razorpay, PayPal.
-- **Code:** [GitHub Repository](https://github.com/Harsh-tech81/Ecommerce-Shopping-Website)
-- **Client:** [Live Store](https://splendorous-marzipan-2ace59.netlify.app)
-- **Admin:** [Admin Dashboard](https://bejewelled-sunshine-44d5ba.netlify.app)
+<div align="center">
+
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-263449?style=flat-square&logo=mongodb&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/Express.js-263449?style=flat-square&logo=express&logoColor=E2E8F0"/>
+    <img src="https://img.shields.io/badge/React-263449?style=flat-square&logo=react&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/Node.js-263449?style=flat-square&logo=nodedotjs&logoColor=86D6A0"/>
+    <img src="https://img.shields.io/badge/Razorpay-263449?style=flat-square&logo=razorpay&logoColor=8DBBFF"/>
+    <img src="https://img.shields.io/badge/PayPal-263449?style=flat-square&logo=paypal&logoColor=8DBBFF"/>
+  </p>
+
+  <a href="https://github.com/Harsh-tech81/Ecommerce-Shopping-Website">
+    <img src="https://img.shields.io/badge/⌘_SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://splendorous-marzipan-2ace59.netlify.app">
+    <img src="https://img.shields.io/badge/↗_LIVE_STORE-263449?style=for-the-badge&logo=googlechrome&logoColor=86D6A0"/>
+  </a>
+  <a href="https://bejewelled-sunshine-44d5ba.netlify.app">
+    <img src="https://img.shields.io/badge/⚙_ADMIN_PANEL-263449?style=for-the-badge&logo=vercel&logoColor=8DBBFF"/>
+  </a>
+
+</div>
 
 <details>
-<summary><strong>More projects</strong></summary>
+<summary><b>Explore More Projects</b></summary>
 
-| Project | Description | Link |
-|---|---|---|
-| Personal Portfolio | Portfolio showcasing projects, skills and developer journey. | [Repository](https://github.com/Harsh-tech81/Portfolio) · [Live](https://portfolio-client-swart-phi.vercel.app) |
-| Get Me A Chai | Creator crowdfunding platform with authentication and payment flow. | Add repository URL |
+### Personal Portfolio
+
+<p>A portfolio showcasing my projects, technical skills and developer journey.</p>
+
+<a href="YOUR_PORTFOLIO_GITHUB_REPOSITORY">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://portfolio-client-swart-phi.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-263449?style=for-the-badge&logo=vercel&logoColor=86D6A0"/>
+</a>
+
+---
+
+### Get Me A Chai
+
+<p>A creator crowdfunding platform with authentication and payment flow.</p>
+
+<a href="YOUR_GETMEACHAI_GITHUB_REPOSITORY">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-263449?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </details>
-
----
-
----
 
 
 ## `$ achievements --milestones`
