@@ -2,11 +2,22 @@
 
 <img src="./assets/hero-terminal.svg" width="100%" alt="Harsh Kumar — Full-Stack Developer and AI Systems Builder" />
 
-<p>
-  <a href="https://github.com/Harsh-tech81">GitHub</a> ·
-  <a href="https://linkedin.com/in/harsh-kumar-1ba21731a">LinkedIn</a> ·
-  <a href="https://portfolio-client-swart-phi.vercel.app">Portfolio</a> ·
-  <a href="mailto:harshkr.221104@gmail.com">Email</a>
+<p align="center">
+  <a href="https://github.com/Harsh-tech81">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/harsh-kumar-1ba21731a">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-client-swart-phi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:harshkr.221104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Harsh-tech81&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
