@@ -125,6 +125,28 @@ A full-stack ecommerce platform with OTP/email verification, payment integration
 
 ---
 
+
+## `$ achievements --milestones`
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/14N9tWixD_UtdXh7siSgcK3QQnIstW-kT/view">
+    <img src="./assets/achievement-code-the-uncoded.svg" width="100%" alt="CODE THE UNCODED — First Rank, NIT Patna, April 2026" />
+  </a>
+  <br/><br/>
+  <a href="https://drive.google.com/file/d/1ND9FE4qyr5j-7G6VxfMQ8RgtJ-Sf7RCu/view">
+    <img src="./assets/achievement-flipkart-grid.svg" width="100%" alt="Flipkart GRID 8.0 — Semi-finalist, August 2026" />
+  </a>
+</div>
+
+## `$ certifications --verified_learning`
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1K6aDyjAKwlNrC1_IIbCLFgREex_2o8H-/view">
+    <img src="./assets/certification-nptel-python.svg" width="100%" alt="NPTEL — The Joy of Computing using Python, April 2026" />
+  </a>
+</div>
+
+
 ## `$ problem_solving --journey`
 
 I believe strong software engineering starts with strong problem-solving fundamentals. I practice Data Structures & Algorithms and competitive programming to sharpen algorithmic thinking, write efficient solutions, and approach unfamiliar problems methodically.
