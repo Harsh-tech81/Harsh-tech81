@@ -216,7 +216,7 @@ A full-stack ecommerce platform with OTP/email verification, payment integration
     <img src="./assets/achievement-code-the-uncoded.svg" width="100%" alt="CODE THE UNCODED — First Rank, NIT Patna, April 2026" />
   </a>
   <br/><br/>
-  <a href="https://drive.google.com/file/d/1ND9FE4qyr5j-7G6VxfMQ8RgtJ-Sf7RCu/view">
+  <a href="https://drive.google.com/file/d/1vMxs-nFyuhA8ilh_OgpE2-KX_bY88Ir4/view?usp=sharing">
     <img src="./assets/achievement-flipkart-grid.svg" width="100%" alt="Flipkart GRID 8.0 — Semi-finalist, August 2026" />
   </a>
 </div>
